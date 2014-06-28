@@ -48,7 +48,7 @@
 > 1.2.0
 
 ## 3. Git
-1. git
+*. git  
 > git version 1.9.2.msysgit.0
 
 ## 4. Notepad++ 
@@ -60,6 +60,6 @@
 > 1.0.2
 
 ## 5. Koala
-1. Jade 
+*. Jade  
 > 1.1.5
 
