@@ -11,7 +11,7 @@
 2. 解壓縮 zip 檔
 3. 開始使用
 
-**This Package contains**
+**This Package contains**  
 **這個壓縮檔內包含了**
 
 ## 1. Ruby
