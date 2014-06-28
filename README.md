@@ -56,10 +56,10 @@
 1. Notepad++ 
 > Notepad++ v6.6.6 Friday the 13th Edition
 
-2. Emmet
+2. Emmet 
 > 1.0.2
 
 ## 5. Koala
-1. Jade
+1. Jade 
 > 1.1.5
 
