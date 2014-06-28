@@ -19,11 +19,10 @@
 3. 滑鼠左鍵點兩下執行 path.bat。
 4. 開始使用。
 
-*This Package contents*:
+**This Package contents**:  
+**這個壓縮檔內包含了**：
 
-*這個壓縮檔內包含了*：
-
-#### 1. Ruby
+### 1. Ruby
 * ruby 2.0.0p481 (2014-05-08) [x64-mingw32]
 * [www.ruby-lang.org]
 
