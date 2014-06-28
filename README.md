@@ -3,7 +3,7 @@
 > The Portable Ruby, Node.js and Git Package for Front-end Development on Windows.     
 > Windows 下免安裝的 Ruby、Node.js 和 Git 的網頁前端開發包
 
-##Usage: 
+###Usage: 
 
 
 1. Download it.
@@ -11,7 +11,7 @@
 3. Double click to execute path.bat.
 4. Enjoy it.
 
-##使用法：
+###使用法：
 
 
 1. 下載 zip 檔。
@@ -22,10 +22,12 @@
 **This Package contents**:  
 **這個壓縮檔內包含了**：
 
-### Ruby
+## Ruby
+1. Ruby
 * ruby 2.0.0p481 (2014-05-08) [x64-mingw32]
 * [www.ruby-lang.org]
 
+2. Gem
 
 
 ####Gem       
