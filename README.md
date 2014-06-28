@@ -1,8 +1,7 @@
 #EasyRNG
 
-> The Portable Ruby, Node.js and Git Package for Front-end Development on Windows.
-
-> Windows 下免安裝的 Ruby、Node.js 和 Git 的網頁前端開發包
+* The Portable Ruby, Node.js and Git Package for Front-end Development on Windows.
+* Windows 下免安裝的 Ruby、Node.js 和 Git 的網頁前端開發包
 
 ##Usage: 
 
@@ -20,8 +19,9 @@
 3. 滑鼠左鍵點兩下執行 path.bat。
 4. 開始使用。
 
-###This Package contents:
-###這個壓縮檔內包含了：
+*This Package contents*:
+
+*這個壓縮檔內包含了*：
 
 #### 1. Ruby
 * ruby 2.0.0p481 (2014-05-08) [x64-mingw32]
