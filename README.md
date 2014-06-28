@@ -30,8 +30,7 @@
 4. compass
 > Compass 1.0.0.alpha.19
 
-5. Jade  
-> 1.3.1
+
 
 
 ## 2. Node.js
@@ -41,14 +40,17 @@
 2. npm
 > 1.4.9
 
-3. grunt
+3. Jade  
+> 1.3.1
+
+4. grunt
 > grunt-cli v0.1.13
 > grunt v0.4.5
 
-4. bower
+5. bower
 > 1.3.5
 
-5. yo (Yeoman)
+6. yo (Yeoman)
 > 1.2.0
 
 ## 3. Git
