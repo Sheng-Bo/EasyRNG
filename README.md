@@ -1,10 +1,9 @@
 #EasyRNG
 
-> The Portable Ruby, Node.js and Git Package for Front-end Development on Windows.     
-> Windows 下免安裝的 Ruby、Node.js 和 Git 的網頁前端開發包
+> The Portable Ruby, Node.js and Git Package for Front-end Learners on Windows.     
+> Windows 版 Ruby、Node.js 和 Git 的免安裝網頁前端學習套件
 
 ###Usage: 
-
 
 1. Download it.
 2. Unzip it.
@@ -25,12 +24,16 @@
 ## Ruby
 1. Ruby
 > ruby 2.0.0p481 (2014-05-08) [x64-mingw32]     
-> [www.ruby-lang.org]
 
 2. Gem
+> 2.3.0
 
+3. Sass
+> Sass 3.3.8 (Maptastic Maple)
 
-####Gem       
+4. Compass
+> Compass 1.0.0.alpha.19
+
 
 ####Node      
 
