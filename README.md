@@ -1,7 +1,7 @@
 #EasyRNG
 
-* The Portable Ruby, Node.js and Git Package for Front-end Development on Windows.
-* Windows 下免安裝的 Ruby、Node.js 和 Git 的網頁前端開發包
+> The Portable Ruby, Node.js and Git Package for Front-end Development on Windows.\s\s
+> Windows 下免安裝的 Ruby、Node.js 和 Git 的網頁前端開發包
 
 ##Usage: 
 
