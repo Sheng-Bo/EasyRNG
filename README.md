@@ -30,6 +30,10 @@
 4. compass
 > Compass 1.0.0.alpha.19
 
+5. Jade  
+> 1.3.1
+
+
 ## 2. Node.js
 1. node
 > v0.10.29
@@ -48,7 +52,6 @@
 > 1.2.0
 
 ## 3. Git
-* git  
 > git version 1.9.2.msysgit.0
 
 ## 4. Notepad++ 
@@ -60,6 +63,4 @@
 > 1.0.2
 
 ## 5. Koala
-* Jade  
-> 1.1.5
-
+> 2.0.3
