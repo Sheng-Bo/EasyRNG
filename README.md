@@ -7,16 +7,14 @@
 
 1. Download it.
 2. Unzip it.
-3. Double click to execute path.bat.
-4. Enjoy it.
+3. Enjoy it.
 
-###使用法：
+###用法：
 
 
 1. 下載 zip 檔。
 2. 解壓縮 zip 檔。
-3. 滑鼠左鍵點兩下執行 path.bat。
-4. 開始使用。
+3. 開始使用。
 
 **This Package contents**:  
 **這個壓縮檔內包含了**：
@@ -55,7 +53,6 @@
 1. git
 > git version 1.9.2.msysgit.0
 
-
 ## 4. Notepad++ 
 
 1. Notepad++ 
@@ -63,7 +60,6 @@
 
 2. Emmet
 > 1.0.2
-
 
 ## 5. Koala
 1. Jade
