@@ -21,7 +21,7 @@
 **This Package contents**:  
 **這個壓縮檔內包含了**：
 
-## Ruby
+## 1. Ruby
 1. Ruby
 > ruby 2.0.0p481 (2014-05-08) [x64-mingw32]     
 
