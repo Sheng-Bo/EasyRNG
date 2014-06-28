@@ -1,8 +1,15 @@
 #EasyRNG -- The Portable Ruby, Node.js and Git Package for Front-end Learners on Windows.  
 #EasyRNG -- Windows 版 Ruby、Node.js 和 Git 的免安裝網頁前端學習套件
 
-###Usage: 1. Download it. 2. Unzip it. 3. Enjoy it.  
-###用法： 1. 下載 zip 檔，2. 解壓縮 zip 檔，3. 開始使用。
+###Usage: 
+1. Download it 
+2. Unzip it 
+3. Enjoy it  
+
+###用法： 
+1. 下載 zip 檔
+2. 解壓縮 zip 檔
+3. 開始使用
 
 **This Package contains**
 **這個壓縮檔內包含了**
