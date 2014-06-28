@@ -44,7 +44,7 @@ an integrated server package
 > 1.3.1
 
 4. grunt
-> grunt-cli v0.1.13
+> grunt-cli v0.1.13  
 > grunt v0.4.5
 
 5. bower
