@@ -61,10 +61,10 @@
 2. Emmet 
 > 1.0.2
 
-2. Explorer 
+3. Explorer 
 > 1.8.2
 
-2. Tidy2 
+4. Tidy2 
 > 0.2
 
 ## 5. Koala
