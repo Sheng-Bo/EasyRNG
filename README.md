@@ -1,4 +1,4 @@
-#EasyRNG -- The Portable Integrated Package of Ruby, Node.js and Git for Front-end Web Development on Windows.  
+#EasyRNG -- The Portable Integrated Package of Ruby, Node.js and Git for Front-end Web Development on Windows
 
 
 ###Usage -- after self-extracting all files:
