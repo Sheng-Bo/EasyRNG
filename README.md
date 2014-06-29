@@ -1,26 +1,4 @@
-<<<<<<< HEAD
-#EasyRNG -- The Portable Integrated Package of Ruby, Node.js and Git for Front-end Development Learners on Windows.  
-#EasyRNG -- Windows 版 Ruby、Node.js 和 Git 的免安裝網頁前端開發學習者整合性套件
-
-
-an integrated server package
-
-###Usage: 
-1. Download it 
-2. Unzip it 
-3. Enjoy it  
-
-###用法： 
-1. 下載 zip 檔
-2. 解壓縮 zip 檔
-3. 開始使用
-
-**This Package contains**  
-**這個壓縮檔內包含了**
-
-## 1. Ruby
-=======
-#EasyRNG -- The Portable Integrated Package of Ruby, Node.js and Git for Front-end Web Development on Windows
+#EasyRNG -- The Portable Integrated Package of Ruby, Node.js and Git for Front-end Web Development on Windows.  
 
 
 ###Usage -- after self-extracting all files:
@@ -32,7 +10,6 @@ an integrated server package
 ###**This Package contains:**  
 
 ## 1. Ruby (x64)
->>>>>>> 8cd2cae0fa96584c07f9f9e3f016402ecd99364c
 1. ruby
 > ruby 2.0.0p481 (2014-05-08) [x64-mingw32]     
 
@@ -48,11 +25,7 @@ an integrated server package
 
 
 
-<<<<<<< HEAD
-## 2. Node.js
-=======
 ## 2. Node.js (x64)
->>>>>>> 8cd2cae0fa96584c07f9f9e3f016402ecd99364c
 1. node
 > v0.10.29
 
