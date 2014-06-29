@@ -7,7 +7,7 @@
 3. Enjoy it  
 
 
-###**This Package contains:**  
+###**This package contains:**  
 
 ## 1. Ruby (x64)
 1. ruby
