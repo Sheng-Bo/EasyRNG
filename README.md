@@ -43,14 +43,16 @@ an integrated server package
 3. Jade  
 > 1.3.1
 
-4. grunt
-> grunt-cli v0.1.13  
-> grunt v0.4.5
+4. grunt-cli
+> v0.1.13  
 
-5. bower
+5. grunt
+> v0.4.5
+
+6. bower
 > 1.3.5
 
-6. yo (Yeoman)
+7. yo (Yeoman)
 > 1.2.0
 
 ## 3. Git
