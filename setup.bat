@@ -1,0 +1,1 @@
+set path=%path%;C:\EasyRNG\NodeJs;C:\EasyRNG\Ruby\bin;C:\EasyRNG\Git\cmd;
