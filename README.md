@@ -2,13 +2,13 @@
 
 
 ###Usage:
-1. Download as Zip
-1. Extract all files to C:\EasyRNG
-2. You will see folders like C:\EasyRNG\Ruby, C:\EasyRNG\NodeJs, C:\EasyRNG\Git
-3. RUN cmd.exe
-4. INPUT C:\EasyRNG\setup.bat
-5. Press Enter key
-6. Enjoy  
+1. Download Zip
+2. Extract all files to C:\EasyRNG
+3. You will see folders like C:\EasyRNG\Ruby, C:\EasyRNG\NodeJs, C:\EasyRNG\Git......
+4. RUN cmd.exe
+5. INPUT C:\EasyRNG\setup.bat
+6. Press Enter key
+7. Enjoy  
 
 
 ###This package contains:
