@@ -1,7 +1,7 @@
 #EasyRNG -- The Portable Integrated Package of Ruby, Node.js and Git for Front-end Web Development on Windows.  
 
 
-###Usage -- 
+###Usage:
 1. Extracting all files to C:\EasyRNG
 2. You will see folders like C:\EasyRNG\NodeJs, C:\EasyRNG\Ruby, C:\EasyRNG\Git
 3. RUN cmd.exe
@@ -10,7 +10,7 @@
 6. Enjoy  
 
 
-###**This package contains:**  
+###This package contains:
 
 ## 1. Ruby (x64)
 1. ruby
