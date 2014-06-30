@@ -3,7 +3,7 @@
 
 ###Usage:
 1. Extracting all files to C:\EasyRNG
-2. You will see folders like C:\EasyRNG\NodeJs, C:\EasyRNG\Ruby, C:\EasyRNG\Git
+2. You will see folders like C:\EasyRNG\Ruby, C:\EasyRNG\NodeJs, C:\EasyRNG\Git
 3. RUN cmd.exe
 4. INPUT C:\EasyRNG\path.bat
 5. Press Enter key
